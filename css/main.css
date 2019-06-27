@@ -59,7 +59,7 @@ box-sizing: border-box;
 
 /*main body*/
 body {
-	background-image: url("../img/background2.jpg");
+	background-image: url("../img/background.jpg");
   width: 100%;
   object-fit: center;
   background-position: center;
